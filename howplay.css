@@ -1,0 +1,28 @@
+body {
+    
+    background-color: #011F3F;
+  }
+  .container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  
+  }
+
+  #rules{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.3rem;
+    margin:  5%;
+    color: #FEF2BF;
+    text-align: center;
+  }
+  ol{
+    border: 2px solid white;
+    padding: 20px 30px 20px 30px;
+    color: white;
+    width: 100%;
+  }
+  li{
+    padding-bottom: 12px;
+  }
+  
