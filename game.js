@@ -10,6 +10,7 @@ $(document).keydown(function(event){
  
     if(started){
         started = false;
+        $(".start-btn").hide();
         nextsequence();
        
     }
