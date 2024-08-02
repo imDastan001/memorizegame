@@ -27,4 +27,7 @@ Memorize game Challenge is a classic memory game featuring four colored buttons.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web 
+2. Open the `index.html` file in your web
+
+   
+![Annotation 2024-08-02 171104](https://github.com/user-attachments/assets/10bec60b-e45a-455d-9d90-2c47e7b3bc73)
